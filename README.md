@@ -24,8 +24,6 @@ A full-stack mobile application designed to provide a safe space for emotional r
 
 ## Screenshots
 
-*(To add screenshots, take pictures on your phone, place them in a folder named `assets/screenshots/` in your project, and they will appear here!)*
-
 | Sign Up & Log In | Home Dashboard | My Reflections |
 | :---: | :---: | :---: |
 | <img src="assets/screenshots/login.png" width="220" /> | <img src="assets/screenshots/home.png" width="220" /> | <img src="assets/screenshots/reflections.png" width="220" /> |
